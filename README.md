@@ -10,7 +10,7 @@ Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 This program incorporates work covered by the following copyright and
 permission notices:
 
-  b2 is (c) 2001, 2002 Michel Valdrighi - m@tidakada.com -
+  b2 is (c) 2001, 2002 Michel Valdrighi - faizanalifullstackprogrammer@gmail.com - faizanscorpioo@gmail.com
   http://tidakada.com
 
   Wherever third party code has been used, credit has been given in the code's
